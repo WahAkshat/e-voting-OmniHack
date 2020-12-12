@@ -1,2 +1,2 @@
-# e-voting-hack-off-3.0
+# e-voting-OmniHack
 Built by team OmniHack
